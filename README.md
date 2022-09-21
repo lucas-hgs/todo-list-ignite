@@ -22,6 +22,6 @@ Para utilizar esse APP, é recomendado que você tenha um emulador de Android ou
 
 ### 🏁 Instalando
 
-Para utilizar esse APP, basta você clonar essa pasta e rodar o comando "npx" ou "yarn", dependendo do seu gerenciador de pacotes, para instalar todas as dependências.
+Para utilizar esse APP, basta você clonar essa pasta e rodar o comando "npm install" ou "yarn", dependendo do seu gerenciador de pacotes, para instalar todas as dependências.
 
 Após isso, basta rodar o projeto com npx expo init e o projeto irá iniciar. Com o projeto já iniciado, basta você abrir o seu emulador e testar a aplicação.
